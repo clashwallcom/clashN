@@ -1,6 +1,9 @@
 # clashN 科学上网资源下载
 
+<div align="center">
+  <img width="150" height="150" alt="clashN" src="https://github.com/user-attachments/assets/0ce67658-7886-46d6-ae1b-e588235fe83a" />
 
+</div>
 
 ## :memo: clashN 节点资源
 
